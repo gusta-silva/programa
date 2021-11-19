@@ -1,0 +1,6 @@
+Portuguese model for android
+
+pip install SpeechRecognition
+pip install vosk
+pip install pyaudio 
+pip install pyttsx3
